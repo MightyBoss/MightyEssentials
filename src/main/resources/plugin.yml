@@ -1,0 +1,16 @@
+name: MightyEssentials
+version: 0.1
+author: MightyBoss
+main: io.github.mightyboss.mightyessentials.MightyEssentials
+api-version: 1.13
+commands:
+    test:
+        description: This is a demo command.
+        usage: /test
+        permission: mightyessentials.test
+        permission-message: You don't have <permission>
+    admin:
+        description: This is a demo command.
+        usage: /admin
+        permission: mightyessentials.admin
+        permission-message: You don't have <permission>
