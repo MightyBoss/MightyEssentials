@@ -1,8 +1,6 @@
 package io.github.mightyboss.mightyessentials.commands;
 
 import io.github.mightyboss.mightyessentials.MightyEssentials;
-import io.github.mightyboss.mightyessentials.listeners.PlayerListener;
-import io.github.mightyboss.mightyessentials.util.CommandBase;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
